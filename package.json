@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/strider1212/portfolio_page/issues"
   },
-  "homepage": "https://github.com/strider1212/portfolio_page#readme"
+  "homepage": "https://github.com/strider1212/portfolio_page#readme",
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
 }
